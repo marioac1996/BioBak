@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.upb.ecobak" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>ECoBak</name>
-    <description>Esta aplicación facilita los datos necesarios para la cumplimentación de la información básica de las especies de                                                                                                                                 <b>flora y fauna</b>
+    <description>Esta aplicación facilita los datos necesarios para la cumplimentación de la información básica de las especies de                                                                                                                                                         <b>flora y fauna</b>
 </description>
     <author email="hi@ionicframework.com" href="http://www.upb.edu.mx/">Ing en Software</author>
     <content src="index.html" />
