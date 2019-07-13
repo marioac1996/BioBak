@@ -7,12 +7,13 @@ import { TabsPage } from '../pages/tabs/tabs';
 import * as firebase from 'firebase';
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyAUEuK4PtfwNP5zSqJYhuYuhsz2tq85uYY",
-    authDomain: "practicasupb-11ac0.firebaseapp.com",
-    databaseURL: "https://practicasupb-11ac0.firebaseio.com",
-    projectId: "practicasupb-11ac0",
-    storageBucket: "practicasupb-11ac0.appspot.com",
-    messagingSenderId: "578064298862"
+  apiKey: "AIzaSyD5yIgwxCOhK8QVWSP9AVAmHpAqZ4AP7UM",
+  authDomain: "ecobak-c74b5.firebaseapp.com",
+  databaseURL: "https://ecobak-c74b5.firebaseio.com",
+  projectId: "ecobak-c74b5",
+  storageBucket: "ecobak-c74b5.appspot.com",
+  messagingSenderId: "939564490521",
+  appId: "1:939564490521:web:4fea6fde556c3f0a"
 };
 
 @Component({
