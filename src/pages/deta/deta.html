@@ -5,10 +5,16 @@
 </ion-header>
 
 <ion-content padding>
-	<img src={{cat.url}}>
-	<p><b>Nombre común: </b>{{cat.nombre}}</p>
+<ion-card>
+  <img src={{cat.url}}>
+  <ion-card-content>
+    <ion-card-title>
+      {{cat.nombre}}
+      </ion-card-title>
 	<p><b>Nombre científico: </b>{{cat.nombreCientifico}}</p>
 	<p style="text-align: justify;"><b>Nombre en Maya: </b>{{cat.nombreMaya}}</p>
+	<br>
 	<p style="text-align: justify;"><b>Descripción: </b>{{cat.descripcion}}</p>
-
+  </ion-card-content>
+</ion-card>
 </ion-content>
