@@ -1,16 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<<<<<<< HEAD
-<widget id="com.upb.ecobak" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+
+<widget id="com.upb.biobak" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>BIOBAK</name>
-    <description>Quiere saber hacer de la biodiversidad de Bacalar.</description>
+    <description>Esta aplicación facilita los datos necesarios para la cumplimentación de la información básica de las especies de                                                                                                                                                         <b>flora y fauna</b></description>
     <author email="asmxcontacto@gmail.com" href="http://upb.edu.mx/">Mario Acosta</author>
-=======
-<widget id="com.upb.ecobak" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>ECoBak</name>
-    <description>Esta aplicación facilita los datos necesarios para la cumplimentación de la información básica de las especies de                                                                                                                                                         <b>flora y fauna</b>
-</description>
-    <author email="hi@ionicframework.com" href="http://www.upb.edu.mx/">Ing en Software</author>
->>>>>>> 90c2dd6733a4d9b6040a71cefa28a5eddfd88728
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />

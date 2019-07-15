@@ -1,15 +1,8 @@
 {
-<<<<<<< HEAD
   "name": "BIOBAK",
   "version": "0.0.1",
   "author": "Mario Acosta",
   "homepage": "http://upb.edu.mx/",
-=======
-  "name": "ECoBak",
-  "version": "0.0.1",
-  "author": "Ing en Software",
-  "homepage": "http://www.upb.edu.mx/",
->>>>>>> 90c2dd6733a4d9b6040a71cefa28a5eddfd88728
   "private": true,
   "scripts": {
     "start": "ionic-app-scripts serve",
